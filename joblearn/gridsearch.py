@@ -1,4 +1,5 @@
 import logging
+import pickle
 
 import pandas as pd
 import qgrid

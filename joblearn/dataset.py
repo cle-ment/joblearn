@@ -4,9 +4,6 @@ import json
 import requests
 import re
 import numpy as np
-# import time
-# import collections
-# import pandas as pd
 import scipy
 import sklearn.datasets
 
